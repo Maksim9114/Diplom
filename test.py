@@ -1,5 +1,6 @@
+# Малыщик Максим, 10-я когорта — Финальный проект. Инженер по тестированию плюс
+
 import sender
-import data
 
 def test_get_order_number():
         response = sender.get_order_number()
