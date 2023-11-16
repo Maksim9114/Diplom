@@ -1,4 +1,4 @@
-URL_SERVICE = "https://690faef3-1346-4e83-a2c0-b662993a6176.serverhub.praktikum-services.ru"
-create_cour = "/api/v1/courier"
-new_order = "/api/v1/orders"
-order_track = "/v1/orders/track?t="
+URL_SERVICE = "https://0fe907aa-fcd5-4828-b75b-ff3b0f180b4c.serverhub.praktikum-services.ru"
+CREATE_COUR = "/api/v1/courier"
+NEW_ORDER = "/api/v1/orders"
+ORDER_TRACK = "/v1/orders/track?t="
